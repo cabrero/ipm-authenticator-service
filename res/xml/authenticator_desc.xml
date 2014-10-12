@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    android:accountType="es.udc.fic.ipm.authenticator"
+    android:icon="@drawable/icon_ipm"
+    android:smallIcon="@drawable/icon_ipm"
+    android:label="@string/authenticator_label"
+    android:accountPreferences="@xml/authenticator_prefs"
+/>
